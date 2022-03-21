@@ -1,0 +1,15 @@
+.man
+{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: flex;
+}
+.vid
+{
+    max-width: 600px;
+    min-width: 300px;
+    width: 500px;
+    height: 500px;
+    border: 1px solid gray;
+}
